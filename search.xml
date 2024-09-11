@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>霓虹街沙龙</title>
+      <link href="/2024/09/11/%E9%9C%93%E8%99%B9%E8%A1%97%E6%B2%99%E9%BE%99/"/>
+      <url>/2024/09/11/%E9%9C%93%E8%99%B9%E8%A1%97%E6%B2%99%E9%BE%99/</url>
+      
+        <content type="html"><![CDATA[<p>#乌托邦的开始<br><img src="/2024/09/11/%E9%9C%93%E8%99%B9%E8%A1%97%E6%B2%99%E9%BE%99/start.webp" alt="スタート"><br>有这么一座城池，不见天日，阴暗潮湿；没有街道，没有法制；这里充满了罪恶，随处可见的毒品、抢劫、杀人，这里是罪恶的温床。但是这里又充满了人情味，为没有身份、没有钱、没有家的人提供了庇护，人与人之间互相帮助，这里是他们的家与归宿。<br>这里曾是人口最密集的地方，只因收留了太多可怜人。不到0.03平方公里的小城池，为了尽可能的收留更多的可怜人，房屋不断的扩建，不能向外扩展，只能不断向内挤压道路、挤压阳光，密集的建筑将这里组成了一个巨大的蜂巢，最多时曾收留了5万人。<br>这里，就是曾经的桃花源，一个被称为“黑暗之城”的地方。<br>在这座被称为“黑暗之城”的桃花源中，尽管环境恶劣，但居民们却有着一种独特的生存智慧。他们知道如何在有限的空间内最大化利用资源，如何在危险的环境中保护自己和邻里。这里没有正式的政府机构，但有着自己的一套规则和秩序，这些规则虽然不完美，却足以让这个社区维持基本的运作。</p><p><img src="/2024/09/11/%E9%9C%93%E8%99%B9%E8%A1%97%E6%B2%99%E9%BE%99/%E4%B9%8C%E6%89%98%E9%82%A6.jpg" alt="ネオン"><br>随着时间的推移，这座城池的名声逐渐传开，吸引了更多的流浪者和寻求庇护的人。他们带来了新的故事，新的技能，也带来了新的希望。一些居民开始尝试改变这里的现状，他们组织起来，清理垃圾，修复破旧的房屋，甚至在一些角落种植起了蔬菜和花草，试图为这个黑暗的角落带来一丝光明。</p><p>然而，改变并非易事。城池的阴暗面也随着时间的推移而逐渐显现。一些不法分子利用这里的无序状态，进行非法交易和犯罪活动。他们的存在威胁到了那些真正寻求庇护和希望的人的安全。居民们意识到，如果不采取行动，他们的家园可能会被这些罪恶的力量所吞噬。</p><p>于是，一场关于光明与黑暗的斗争在桃花源中悄然展开。一些勇敢的居民站出来，他们组成了自卫队，保护那些弱小和无辜的人。他们与犯罪分子斗争，同时也与其他居民一起，努力改善城池的环境和生活条件。</p><p>在这个过程中，一些有远见的居民开始思考更深层次的问题：如何才能从根本上改变桃花源的现状？他们开始寻求外部的帮助，与政府和社会机构接触，希望能够获得资金和资源，来改善基础设施，提供教育和医疗等服务。</p><p>随着时间的推移，桃花源开始慢慢发生变化。一些新的建筑开始取代了破旧的房屋，新的学校和医院也在这里建立起来。居民们的生活质量得到了显著的提升，而那些曾经威胁到他们安全的犯罪活动也逐渐减少。</p><p>尽管桃花源的过去充满了黑暗和罪恶，但居民们的努力和坚持，让这个地方逐渐走向了光明。他们用自己的行动证明了，即使是在最黑暗的角落，也有可能孕育出希望和改变。桃花源的故事，成为了一个关于人性、社区和重生的传奇。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 乌托邦 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2024/09/04/hello-world/"/>
+      <url>/2024/09/04/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
